@@ -1,16 +1,3 @@
----
-title: "Modelo Base de Planejamento de Testes para QAs 🚀"
-publishedDate: "2025-02-02"
-lastUpdatedDate: "2025-02-02"
-tags:
-  - Teste
-  - Plano
-  - Teste
-  - Caso
-description: "Hoje quero compartilhar um modelo base de planejamento de testes que criei e organizei no Notion"
-status: published
----
-
 Fala, pessoal! Tudo bem com vocês? Sejam bem-vindos ao **Aprendendo QA**! Hoje quero compartilhar um modelo base de planejamento de testes que criei e organizei no Notion. A ideia é ajudar iniciantes e equipes pequenas ou médias a gerenciarem e executarem seus testes de forma mais eficiente.
 
 Este modelo é totalmente expansível e adaptável, permitindo que você adicione informações conforme a necessidade do projeto. Então, pega um café e vem comigo entender como ele funciona! ☕
