@@ -123,7 +123,6 @@ Eu criei este modelo pensando em todos nós que, no dia a dia, enfrentamos desaf
 
 Compreendendo as dificuldades para iniciantes, e entendendo a complexidade de assimilação com as ferramentas pagas disponiveis no mercado, acredito que este modelo é uma ferramenta que possa ser essencial para quem quer unir eficiência e qualidade de forma simples, mas com a força necessária para atender às demandas reais dos nossos projetos. Ele foi desenvolvido com carinho para ajudar a transformar a forma como lidamos com os testes.
 
-Se você achar que outros QAs podem se beneficiar dessa abordagem, favorite esse repositório, e compartilhe com os outros.
-Há um artigo publicado em <a href="https://yuridiego-tech.vercel.app/posts/Planejamento-Teste-QA" target="_blank">aqui</a>.
+Se você achar que outros QAs podem se beneficiar dessa abordagem, favorite esse repositório, e compartilhe com os outros. Há um artigo publicado <a href="https://yuridiego-tech.vercel.app/posts/Planejamento-Teste-QA" target="_blank">aqui</a>.
 
 Um grande abraço e até a próxima! 🚀
