@@ -37,9 +37,9 @@ Implementar a funcionalidade de adicionar PET ao sistema
 
 ##### Exemplo de Detalhamento da Funcionalidade:
 
-![Exemplo Funcionalidade Expandida](/blog/Planejamento-Teste/Funcionalidade-2.png)
+![Exemplo Funcionalidade Expandida](./Image/Funcionalidade-2.png)
 Podemos modificar o modelo para funcionalidade para conforme desejamos, mas inicialmente, foi criado 2 sub-tópico, sendo a descrição e os Requisitos
-![Exemplo Funcionalidade Expandida](/blog/Planejamento-Teste/Funcionalidade-3.png)
+![Exemplo Funcionalidade Expandida](./Image/Funcionalidade-3.png)
 
 Com isso criaremos as funcionalidades de acordo com as histórias existentes no sistema, e com base nela e na definição da descrição/ Requisitos iremos criar nossos casos de teste
 
@@ -51,7 +51,7 @@ Os cenários de teste são vinculados às funcionalidades (Card-Pai) e podem ser
 
 Validar Fluxo funcional da funcionalidade Adicionar PET ao sistema
 
-![Exemplo Caso de Teste prévia](/blog/Planejamento-Teste/Caso-Teste-1.png)
+![Exemplo Caso de Teste prévia](./Image/Caso-Teste-1.png)
 
 ##### Exemplo de Detalhamento do Caso de Teste:
 
@@ -61,15 +61,15 @@ Para o modelo do exemplo proposto, Foi criado alguns Tópicos, sendo eles:
 
 - _Descrição_ | _Pré-condição_ | _Passos de execução_
 
-![Exemplo Funcionalidade Expandida](/blog/Planejamento-Teste/Caso-Teste-2.png)
+![Exemplo Funcionalidade Expandida](./Image/Caso-Teste-2.png)
 
 - Payload (_Request_ e _Response_)
 
-![Exemplo Funcionalidade Expandida](/blog/Planejamento-Teste/Caso-Teste-3.png)
+![Exemplo Funcionalidade Expandida](./Image/Caso-Teste-3.png)
 
 - _Resultado Esperado_ | _Resultado Obtido_
 
-![Exemplo Funcionalidade Expandida](/blog/Planejamento-Teste/Caso-Teste-4.png)
+![Exemplo Funcionalidade Expandida](./Image/Caso-Teste-4.png)
 
 Inicialmente, criaremos os casos de teste de acordo com as funcionalidades existentes no sistema, e com base nessas funcionalidades e suas definições, iremos definir como será feito o ciclo de teste
 
@@ -99,11 +99,11 @@ Para criar um novo modelo, basta seguir os passos abaixo:
 
 1. **Criação de Novo Modelo**:
 
-   - ![Exemplo Criar modelo 1](/blog/Planejamento-Teste/Modelo-1.png)
+   - ![Exemplo Criar modelo 1](./Image/Modelo-1.png)
    - Clique no botão **NOVO** e selecione a opção para criar um novo modelo.
 
 2. **Detalhamento do Modelo**:
-   - ![Exemplo Criar modelo 2](/blog/Planejamento-Teste/Modelo-2.png)
+   - ![Exemplo Criar modelo 2](./Image/Modelo-2.png)
    - Após selecionar a opção, você poderá adicionar **Baias** e **Seções**, o que permitirá um detalhamento mais específico de acordo com a necessidade do projeto.
 
 Com essas etapas, você pode criar modelos personalizados para diferentes tipos de testes e adaptá-los conforme os requisitos do seu projeto, tornando o processo mais ágil e eficiente.
