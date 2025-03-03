@@ -33,7 +33,7 @@ Cada funcionalidade do software deve ser registrada em uma "planilha" ou tabela 
 #### Exemplo de Funcionalidade Criada:
 
 Implementar a funcionalidade de adicionar PET ao sistema
-![Exemplo Funcionalidade prévia](Image/Funcionalidade 1.png)
+![Exemplo Funcionalidade prévia](./image/Funcionalidade-1.png)
 
 ##### Exemplo de Detalhamento da Funcionalidade:
 
